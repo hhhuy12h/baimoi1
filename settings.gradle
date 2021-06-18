@@ -1,0 +1,2 @@
+rootProject.name = "API_FireBase_cuoiky"
+include ':app'
